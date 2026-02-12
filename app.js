@@ -70,7 +70,7 @@ function animateservicesection(){
 // ---------------Submit Form detail in Email--------------
 // ========================================================
 let modal = document.getElementById("modal");
-const scripturl='https://script.google.com/macros/s/AKfycbzNE3ddYwUcAChs_vvXFjZJ5byUWPh2aat-WUTC6zIim9A_HEFp1sOxYcQn3C_0zic6Rg/exec';
+const scripturl='';
 const form = document.forms['contact-form']
 form.addEventListener('submit',e => {
   e.preventDefault()
